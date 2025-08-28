@@ -1,4 +1,13 @@
-## Hi there 👋
+# Hi, I'm Marcus Abad-Dominguez
+
+I'm A Computer Science Student at **Grand Valley State University**<br>
+
+🤔 I am currently learning, about developing Mobile Applications, Java and the structures of programming languages, AI, Multivarite Data Analysis, and more!!!!<br>
+
+⚡ I am currenlty working on trying to start developing a game, while learning Java on my own.<br>
+
+😄 Fun Fact: I first got into coding from making scratch games in my middle school computers class.
+
 
 <!--
 **mabaddomm/mabaddomm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
